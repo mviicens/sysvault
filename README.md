@@ -1,6 +1,6 @@
 # Apuntes de Obsidian SysVault
 ## 1. Introducción
-Aquí tenéis unos apuntes de Obsidian para aprender y sobretodo para que os sea de utilidad a la hora de hacer actividades y otras cosas, aprenderies tanto de redes _(sobretodo en dispositivos Cisco)_ como SQL, sistemas opertivos, etc. En este **GitHub** será básicamente un tutorial de como implementarlo este Obsidian en vuestros ordenadores i 4 cosas de como usar el **Obsidian**. 
+Aquí tenéis unos apuntes de Obsidian para aprender y sobretodo para que os sea de utilidad a la hora de hacer actividades y otras cosas, aprenderies tanto de redes informáticas, como SQL, sistemas opertivos, etc. En este **GitHub** será básicamente un tutorial de como implementarlo este Obsidian en vuestros ordenadores i 4 cosas de como usar el **Obsidian**. 
 
 ## 2. Descargar e implemetar el Obsidian
 El primero que tendréis que hacer es iros al menú principal del Repositorio _"Obsidian-Redes"_ para seguidamente ir a _"Code > Download ZIP"_, como se muestra en la imagen: 
