@@ -3,7 +3,7 @@
 Aquí tenéis unos apuntes de Obsidian para aprender y sobretodo para que os sea de utilidad a la hora de hacer actividades y otras cosas, aprenderies tanto de redes informáticas, como SQL, sistemas opertivos, etc. En este **GitHub** será básicamente un tutorial de como implementarlo este Obsidian en vuestros ordenadores i 4 cosas de como usar el **Obsidian**. 
 
 ## 2. Descargar e implemetar el Obsidian
-El primero que tendréis que hacer es iros al menú principal del **Repositorio SysVault** para seguidamente ir abajo a la derecha, en la sección de _"Releases"_, i le daremos clic para entrar. 
+Lo primero que tendréis que hacer es iros al menú principal del **Repositorio SysVault** para seguidamente ir abajo a la derecha, en la sección de _"Releases"_, i le daremos clic para entrar. 
 
 ![Imagen1-Releases](https://github.com/user-attachments/assets/9e4dc14f-d97a-4753-9d5b-9649f5b21605)
 
